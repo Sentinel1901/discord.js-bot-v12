@@ -1,8 +1,10 @@
 # discord.js-bot-v12
 A POWER FULL DISCORD BOT
 
-DON'T FORGET TO SUBSCRIBE YT CHANNEL 
-https://youtu.be/7HP-a3Z-Bqk
+[![DiscordBanner](https://invidget.switchblade.xyz/BuQ3kUUCbg)](https://discord.gg/BuQ3kUUCbg)
+
+
+
 
 
 
